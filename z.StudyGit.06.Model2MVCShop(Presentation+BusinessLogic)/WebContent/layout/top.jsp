@@ -4,7 +4,7 @@
 
 <html>
 <head>
-<title>Model2 MVC Shop</title>
+<title>Model2 MVC Shop 안녕하세요 ㅎㅎ...</title>
 
 <link href="/css/left.css" rel="stylesheet" type="text/css">
 
